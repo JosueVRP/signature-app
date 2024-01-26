@@ -1,0 +1,65 @@
+{
+    "trabajadores": [
+      {
+        "id": 1,
+        "nombre_completo": "Juan Pérez",
+        "area": "Ventas",
+        "tiene_foto": true
+      },
+      {
+        "id": 2,
+        "nombre_completo": "María Rodríguez",
+        "area": "Recursos Humanos",
+        "tiene_foto": false
+      },
+      {
+        "id": 3,
+        "nombre_completo": "Carlos Gómez",
+        "area": "Desarrollo de Software",
+        "tiene_foto": true
+      },
+      {
+        "id": 4,
+        "nombre_completo": "Laura Martínez",
+        "area": "Marketing",
+        "tiene_foto": false
+      },
+      {
+        "id": 5,
+        "nombre_completo": "Alejandro Sánchez",
+        "area": "Finanzas",
+        "tiene_foto": true
+      },
+      {
+        "id": 6,
+        "nombre_completo": "Isabel Fernández",
+        "area": "Operaciones",
+        "tiene_foto": false
+      },
+      {
+        "id": 7,
+        "nombre_completo": "Miguel López",
+        "area": "Soporte Técnico",
+        "tiene_foto": true
+      },
+      {
+        "id": 8,
+        "nombre_completo": "Ana Ramírez",
+        "area": "Diseño Gráfico",
+        "tiene_foto": false
+      },
+      {
+        "id": 9,
+        "nombre_completo": "Javier Herrera",
+        "area": "Investigación y Desarrollo",
+        "tiene_foto": true
+      },
+      {
+        "id": 10,
+        "nombre_completo": "Silvia Castro",
+        "area": "Logística",
+        "tiene_foto": false
+      }
+    ]
+  }
+  
